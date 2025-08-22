@@ -84,7 +84,7 @@ const updatedConfig = Object.freeze<SystemConfig>({
     urls: ['http://immich-machine-learning:3003'],
     clip: {
       enabled: true,
-      modelName: 'ViT-B-32__openai',
+      modelName: 'ViT-L-14-336__axera',
     },
     duplicateDetection: {
       enabled: true,
